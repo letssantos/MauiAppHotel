@@ -71,7 +71,7 @@
                         <Label Text="Período da Estadia"
                                TextTransform="Uppercase"
                                FontSize="Subtitle"
-                               TextColor="{StaticResource Primary}"/>
+                               TextColor="{StaticResource Primary} "/>
 
                         <HorizontalStackLayout HorizontalOptions="CenterAndExpand">
                             <Label Text="Check-in:" />
